@@ -2886,7 +2886,10 @@
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: rgba(230, 235, 237, 0.25);
+				background-color: rgba(244, 163, 0, 0.1);
+			}
+			table tbody tr:nth-child(2n) {
+				background-color: rgba(230, 235, 237, 0.1);
 			}
 
 		table td {
@@ -2922,6 +2925,13 @@
 				table.alt tbody tr td:first-child {
 					border-left-width: 1px;
 				}
+
+			table.alt tbody tr:nth-child(2n + 1) {
+				background-color: rgba(230, 235, 237, 0.25);
+			}
+			table.alt tbody tr:nth-child(2n) {
+				background-color: rgba(255, 255, 255, 1);
+			}
 
 			table.alt tbody tr:first-child td {
 				border-top-width: 1px;
