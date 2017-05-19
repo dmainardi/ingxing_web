@@ -2107,13 +2107,13 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #f4a300;
+		color: #f4ab18;
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: #f4a300;
-			color: #f4a300 !important;
+			border-bottom-color: #f4ab18;
+			color: #f4ab18 !important;
 		}
 
 			a:hover strong {
@@ -2282,7 +2282,7 @@
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #f4a300;
+		border-bottom: solid 3px #f4ab18;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0.75em 0.5em 0;
@@ -2349,8 +2349,8 @@
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #f4a300;
-			box-shadow: 0 0 0 1px #f4a300;
+			border-color: #f4ab18;
+			box-shadow: 0 0 0 1px #f4ab18;
 		}
 
 	.select-wrapper {
@@ -2463,8 +2463,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f4a300;
-			box-shadow: 0 0 0 1px #f4a300;
+			border-color: #f4ab18;
+			box-shadow: 0 0 0 1px #f4ab18;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2697,7 +2697,7 @@
 				}
 
 				ul.contact li:before {
-					color: #f4a300;
+					color: #f4ab18;
 					display: inline-block;
 					font-size: 1.5em;
 					height: 1.125em;
@@ -2821,16 +2821,16 @@
 				}
 
 					ul.pagination li > .page.active {
-						background-color: #f4a300;
+						background-color: #f4ab18;
 						color: #ffffff !important;
 					}
 
 						ul.pagination li > .page.active:hover {
-							background-color: #f67878;
+							background-color: #f4b331;
 						}
 
 						ul.pagination li > .page.active:active {
-							background-color: #f45c5c;
+							background-color: #f4a300;
 						}
 
 				ul.pagination li:first-child {
@@ -2963,8 +2963,8 @@
 		background-color: transparent;
 		border-radius: 0.375em;
 		border: 0;
-		box-shadow: inset 0 0 0 2px #f4a300;
-		color: #f4a300 !important;
+		box-shadow: inset 0 0 0 2px #f4ab18;
+		color: #f4ab18 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Roboto Slab", serif;
@@ -3037,7 +3037,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #f4a300;
+			background-color: #f4ab18;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -3047,7 +3047,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #f67878;
+				background-color: #f4b331;
 			}
 
 			input[type="submit"].special:active,
@@ -3055,7 +3055,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #f45c5c;
+				background-color: #f4a300;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3157,7 +3157,7 @@
 			}
 
 				.features article .icon:before {
-					color: #f4a300;
+					color: #f4ab18;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3802,7 +3802,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #f4a300;
+		border-bottom: solid 5px #f4ab18;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
@@ -3997,7 +3997,7 @@
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f4a300;
+				color: #f4ab18;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -4031,7 +4031,7 @@
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #f4a300;
+					color: #f4ab18;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
